@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OzanRecber
+- 👋 Hi, I’m Ozan
 - 👀 I’m interested in Java Programming Language
 - 🌱 I’m currently learning Java Programming Language
 - 💞️ I’m looking to collaborate on self learning
